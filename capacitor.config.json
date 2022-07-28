@@ -1,0 +1,30 @@
+{
+  "appId": "com.presupuestos.app",
+  "appName": "Presupuestos",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "windowsAndroidStudioPath": "/c/Program Files/Android/Android Studio/bin/studio64.exe",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "backgroundColor": "#fdda61",
+      "androidSplashResourceName": "screen",
+      "androidScaleType": "CENTER_CROP",
+      "androidSpinnerStyle": "large",
+      "iosSpinnerStyle": "small",
+      "spinnerColor": "#2489c5",
+      "showSpinner": true
+    }
+  },
+  "server": {
+    "url": "https://app.presupuestos.uy/",
+    "allowNavigation": [
+      "example.org",
+      "*.example.org",
+      "192.0.2.1"
+    ]
+  },
+  "webContentsDebuggingEnabled": true,
+  "cordova": {}
+}

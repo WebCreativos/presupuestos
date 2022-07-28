@@ -1,0 +1,33 @@
+{
+  "name": "compraVenta",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@bachdgvn/vue-otp-input": "^1.0.8",
+    "@capacitor/android": "^3.3.3",
+    "@capacitor/core": "^3.3.3",
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/pwa": "^3.0.2",
+    "core-js": "^3.6.5",
+    "moment": "^2.29.1",
+    "nuxt": "^2.14.6",
+    "pusher-js": "^7.0.2",
+    "vue-advanced-chat": "^0.5.6",
+    "vue-product-carousel": "^1.2.0",
+    "vue-quick-chat": "^1.2.6",
+    "vue-social-sharing": "^3.0.4",
+    "vue-socialmedia-share": "^1.0.1",
+    "vue-the-mask": "^0.11.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^3.3.3",
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}

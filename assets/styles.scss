@@ -1,0 +1,35 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+.v-application{
+    .rounded-xl {
+        border-radius: 20px !important;
+    }
+    .font-weight-semi-bold{
+        font-weight: 600!important;
+    }
+    .fill-height {
+        height: 100vh !important;
+    }
+    
+    .fill-width {
+        width: 100vw !important;
+    }
+    
+    .full-height {
+        height: 100% !important;
+    }
+    
+    .full-width {
+        width: 100% !important;
+    }
+    .blue-gradient{
+        background:linear-gradient(#268ac4, #0f6a9e)
+    }
+    .overflow {
+        overflow: scroll;
+      }    
+    font-family:'Raleway'!important;
+
+}
+
